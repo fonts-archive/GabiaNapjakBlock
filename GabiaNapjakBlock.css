@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gabia NapjakBlock';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaNapjakBlock/GabiaNapjakBlock.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaNapjakBlock/GabiaNapjakBlock.ttf') format('truetype');
+}
