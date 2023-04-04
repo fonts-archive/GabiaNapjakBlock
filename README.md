@@ -15,7 +15,7 @@ font-family: 'Gabia NapjakBlock';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaNapjakBlock/GabiaNapjakBlock.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaNapjakBlock/GabiaNapjakBlock.css" type="text/css"/>
 ```
 
 &nbsp;
